@@ -1,0 +1,23 @@
+/*
+* Suzanne Melia
+* October 15, 2018  
+* Schedule  
+*/ 
+
+/*The Universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body { 
+background-color:lightblue;
+}
+
+table, td, th { border: 2px solid black; }
+table { border-collapse: collapse; }
+
+thead { background-color: lime; }
+tfoot { background-color: deepskyblue; }
